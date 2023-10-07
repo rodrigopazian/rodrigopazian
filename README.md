@@ -10,5 +10,5 @@ FIAP BRQ PROJECT - ALUGAFÁCIL:
 
 
 <div>
-    [![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian)](https://github.com/rodrigopazian/github-readme-stats)
+    [![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=synthwave)](https://github.com/rodrigopazian/github-readme-stats)
 </div>
