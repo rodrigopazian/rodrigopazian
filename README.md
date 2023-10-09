@@ -9,5 +9,4 @@ FIAP BRQ PROJECT - ALUGAFÁCIL:
     https://github.com/rodrigopazian/Challenge-BRQ-FIAP-AlugaFacil
 
 
-![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=synthwave)
-!(https://github.com/anuraghazra/github-readme-stats)
+[![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=synthwave)](https://github.com/rodrigopazian/github-readme-stats)
