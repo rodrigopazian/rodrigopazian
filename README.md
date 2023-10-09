@@ -1,3 +1,5 @@
+[![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=highcontrast)](https://github.com/rodrigopazian/github-readme-stats)
+
 ## PROJECTS
 
 FIAP FINTECH PROJECT - FINFACILITA:
@@ -8,5 +10,3 @@ FIAP BRQ PROJECT - ALUGAFÁCIL:
 
     https://github.com/rodrigopazian/Challenge-BRQ-FIAP-AlugaFacil
 
-
-[![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=dracula)](https://github.com/rodrigopazian/github-readme-stats)
