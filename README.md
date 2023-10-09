@@ -1,4 +1,4 @@
-[![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=highcontrast)](https://github.com/rodrigopazian/github-readme-stats)
+[![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=cobalt&show_icons=true)](https://github.com/rodrigopazian/github-readme-stats)
 
 ## PROJECTS
 
