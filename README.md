@@ -5,13 +5,13 @@
 
 # *PROJECTS*
 
-## FIAP FINTECH PROJECT - FINFACILITA:
+<h2 align="center">FIAP FINTECH PROJECT - FINFACILITA:</h2>
 
 <p align="center"><img src="images/Finfacilita.png"><https://github.com/rodrigopazian/Projeto-FIAP-Fintech-99583></p>
 
 
 
-## FIAP BRQ PROJECT - ALUGAFÁCIL:
+<h2 align="center">FIAP BRQ PROJECT - ALUGAFÁCIL:</h2>
 
 
 <p align="center"><img src="images/Alugafacil.png">[https://github.com/rodrigopazian/Challenge-BRQ-FIAP-AlugaFacil]</p>
