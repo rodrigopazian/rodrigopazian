@@ -1,4 +1,4 @@
-# _Rodrigo Pazian's GitHub Stats_
+# _Rodrigo Pazian's GitHub Stats
 <div>
   <a href="https://github.com/rodrigopazian/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=cobalt&show_icons=true"/>
@@ -6,7 +6,7 @@
   
 </div>
 
-# _Rodrigo Pazian's GitHub Projects_
+# _Rodrigo Pazian's GitHub Projects
 
 <h2 align="center">FIAP FINTECH PROJECT - FINFACILITA:</h2>
 
