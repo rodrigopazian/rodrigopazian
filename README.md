@@ -11,14 +11,14 @@
 
 ##FIAP FINTECH PROJECT - FINFACILITA:
 
-<p align="center"><img src="rodrigopazian/images/Finfacilita.png">(https://github.com/rodrigopazian/Projeto-FIAP-Fintech-99583)</p>
+<p align="center"><img src="images/Finfacilita.png">(https://github.com/rodrigopazian/Projeto-FIAP-Fintech-99583)</p>
 
 
 
 ##FIAP BRQ PROJECT - ALUGAFÁCIL:
 
 
-<p align="center"><img src="rodrigopazian/images/Alugafacil.png">(https://github.com/rodrigopazian/Challenge-BRQ-FIAP-AlugaFacil)</p>
+<p align="center"><img src="images/Alugafacil.png">(https://github.com/rodrigopazian/Challenge-BRQ-FIAP-AlugaFacil)</p>
 
 
 
