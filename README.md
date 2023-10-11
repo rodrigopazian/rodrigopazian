@@ -1,15 +1,17 @@
 <h1 align="center">
-   _Rodrigo Pazian's GitHub Stats_
+   Rodrigo Pazian's GitHub Stats
 </h1>
-<div>
+<br><br>
+<div align="center">
   <a href="https://github.com/rodrigopazian/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=cobalt&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopazian&layout=compact&langs_count=16&theme=cobalt"/>  
 </div>
 
 <h1 align="center">
-  _Rodrigo Pazian's GitHub Projects_
+  Rodrigo Pazian's GitHub Projects
 </h1>
+<br><br>
 
 <h3 align="center">FIAP FINTECH PROJECT - FINFACILITA:</h3>
 
