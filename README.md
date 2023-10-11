@@ -4,7 +4,7 @@
   [!(https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=cobalt&show_icons=true)](https://github.com/rodrigopazian/github-readme-stats)
 </p>
 
-# PROJECTS
+# *PROJECTS*
 
 ## FIAP FINTECH PROJECT - FINFACILITA:
 
@@ -15,7 +15,7 @@
 ## FIAP BRQ PROJECT - ALUGAFÁCIL:
 
 
-<p align="center"><img src="images/Alugafacil.png">(https://github.com/rodrigopazian/Challenge-BRQ-FIAP-AlugaFacil)</p>
+<p align="center"><img src="images/Alugafacil.png">[https://github.com/rodrigopazian/Challenge-BRQ-FIAP-AlugaFacil]</p>
 
 
 
