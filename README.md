@@ -8,7 +8,7 @@
 
 ## FIAP FINTECH PROJECT - FINFACILITA:
 
-<p align="center"><img src="images/Finfacilita.png">(https://github.com/rodrigopazian/Projeto-FIAP-Fintech-99583)</p>
+<p align="center"><img src="images/Finfacilita.png"><https://github.com/rodrigopazian/Projeto-FIAP-Fintech-99583></p>
 
 
 
