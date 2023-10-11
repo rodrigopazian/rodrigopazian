@@ -12,7 +12,7 @@
 <h2 align="center">FIAP BRQ PROJECT - ALUGAFÁCIL:</h2>
 
 
-<p align="center"><a href="https://github.com/rodrigopazian/Challenge-BRQ-FIAP-AlugaFacil"><img src="images/Alugafacil.png" height="400px"></a></p>
+<p align="center"><a href="https://github.com/rodrigopazian/Challenge-BRQ-FIAP-AlugaFacil"><img src="images/Alugafacil.png" height="500px"></a></p>
 
 
 
