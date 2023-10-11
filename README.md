@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/rodrigopazian/github-readme-stats">
-  <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=cobalt&show_icons=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopazian&layout=compact&langs_count=16&theme=cobalt"/>  
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=cobalt&show_icons=true"/>
+  <img height="180em"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopazian&layout=compact&langs_count=16&theme=cobalt"/>  
 </div>
 
 <br><br>
