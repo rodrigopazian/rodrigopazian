@@ -5,7 +5,7 @@
 
 <h2 align="center">FIAP FINTECH PROJECT - FINFACILITA:</h2>
 
-<p align="center"><a href="https://github.com/rodrigopazian/Projeto-FIAP-Fintech-99583"><img width="100px" src="images/Finfacilita.png"></a></p>
+<p align="center"><a href="https://github.com/rodrigopazian/Projeto-FIAP-Fintech-99583"><img src="images/Finfacilita.png" width="10px"></a></p>
 
 
 
