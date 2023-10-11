@@ -1,4 +1,4 @@
-[![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=cobalt&show_icons=true)](https://github.com/rodrigopazian/github-readme-stats)
+[[Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=cobalt&show_icons=true)](https://github.com/rodrigopazian/github-readme-stats)
 
 
 
@@ -8,7 +8,7 @@
 
 ##FIAP FINTECH PROJECT - FINFACILITA:
 
-<p align="center"><img src="rodrigopazian/images/Finfacilita.png">(https://github.com/rodrigopazian/Projeto-FIAP-Fintech-99583)</p>
+<p align="center">[img src="rodrigopazian/images/Finfacilita.png"](https://github.com/rodrigopazian/Projeto-FIAP-Fintech-99583)</p>
 
 
 
