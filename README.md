@@ -1,7 +1,7 @@
-# *STATS
+# _STATS_
 [![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=cobalt&show_icons=true)](https://github.com/rodrigopazian/github-readme-stats)
 
-# *PROJECTS
+# _PROJECTS_
 
 <h2 align="center">FIAP FINTECH PROJECT - FINFACILITA:</h2>
 
