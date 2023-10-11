@@ -1,5 +1,6 @@
 # _STATS_
 [![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=cobalt&show_icons=true)](https://github.com/rodrigopazian/github-readme-stats)
+[![Rodrigo Pazian's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopazian&layout=compact&langs_count=16&theme=cobalt)](https://github.com/rodrigopazian/github-readme-stats)
 
 # _PROJECTS_
 
