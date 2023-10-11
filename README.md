@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/rodrigopazian/github-readme-stats">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rodrigopazian&theme=cobalt&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopazian&langs_count=16&theme=cobalt"/>  
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopazian&layout=compact&langs_count=16&theme=cobalt"/>  
 </div>
 
 <br><br>
