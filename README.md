@@ -31,8 +31,8 @@
 
 <div style="display: inline_block"><br>
 
-   <a href="https://github.com/rodrigopazian/Projeto-FIAP-Fintech-99583"><img  align="center" alt="RP-Js" height="300" width="400" src="images/Finfacilita.png" height="300px"></a>
-   <a href="https://github.com/rodrigopazian/Challenge-BRQ-FIAP-AlugaFacil"><img  align="center" alt="RP-Js" height="300" width="400" src="images/Alugafacil.png" height="400px"></a>
+   <a href="https://github.com/rodrigopazian/Projeto-FIAP-Fintech-99583"><img  align="center" alt="RP-Js" height="568" width="320" src="images/Finfacilita.png" height="300px"></a>
+   <a href="https://github.com/rodrigopazian/Challenge-BRQ-FIAP-AlugaFacil"><img  align="center" alt="RP-Js" height="568" width="320" src="images/Alugafacil.png" height="400px"></a>
    
 </div>
 
