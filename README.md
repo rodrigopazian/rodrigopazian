@@ -30,7 +30,7 @@
 
 <div align="center" style="display: inline_block"><br>
    
-   <h3 align="center" width="50">FIAP FINTECH PROJECT - FINFACILITA \\t FIAP BRQ PROJECT - ALUGAFÁCIL</h3>
+   <h3 align="center" width="50">FIAP FINTECH PROJECT - FINFACILITA /t FIAP BRQ PROJECT - ALUGAFÁCIL</h3>
    
    
 </div>
