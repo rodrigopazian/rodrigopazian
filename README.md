@@ -54,6 +54,6 @@
 
 <div align="center"  style="display: inline_block"><br>
 
-   <a href="https://github.com/rodrigopazian/EducacaoConectada"><img  align="center" alt="RP-Js" height="568" width="320" margin="10px" src="images/Finfacilita.png" height="300px"></a>
+   <a href="https://github.com/rodrigopazian/EducacaoConectada"><img  align="center" alt="EduConect" height="568" width="320" margin="10px" src="EduConect_InputExerciseView.png" height="300px"></a>
    
 </div>
