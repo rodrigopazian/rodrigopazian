@@ -45,3 +45,15 @@
 </div>
 
 
+<div align="center" style="display: inline_block"><br>
+   
+   <h3 align="center" width="50">FIAP EDTECH PROJECT - EDUCAÇÃO CONECTADA</h3>
+   
+   
+</div>
+
+<div align="center"  style="display: inline_block"><br>
+
+   <a href="https://github.com/rodrigopazian/EducacaoConectada"><img  align="center" alt="RP-Js" height="568" width="320" margin="10px" src="images/Finfacilita.png" height="300px"></a>
+   
+</div>
